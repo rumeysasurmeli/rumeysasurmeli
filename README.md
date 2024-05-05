@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rumeysasurmeli
+
 - 👀 I'm a university student
-- I'm a learning Java and network
+- I'm learning Java and network
   
 
 <!---
