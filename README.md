@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rumeysasurmeli
-- 👀 I’m interested in cyber security
-- 
+- 👀 I'm a university student
+  
 
 <!---
 rumeysasurmeli/rumeysasurmeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
