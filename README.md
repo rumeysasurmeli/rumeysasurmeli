@@ -1,9 +1,4 @@
-
-- 👀 I'm a university student
-- I'm learning Java and network
-  
-
-<!---
-rumeysasurmeli/rumeysasurmeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Merhaba, ben Rümeysa 👋
+🎓 Ankara Medipol Üniversitesi’nde Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim.
+🤖 Yapay zeka, yazılım geliştirme ve teknoloji temelli toplumsal projelerle ilgileniyorum.
+💻 Python, Java, C ve SQL dillerinde temel bilgiye sahibim.
